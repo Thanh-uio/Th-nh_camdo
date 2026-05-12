@@ -27,7 +27,8 @@ Dự án này là hệ thống CSDL nhằm quản lý các hợp đồng vay ti�
 
 Quá trình phân tích bài toán để đưa ra mô hình thực thể liên kết (ERD) với 4 bảng chính: `Khách Hàng`, `Hợp đồng`, `Tài Sản` và `Log`. CSDL đã được thiết kế đảm bảo chuẩn hóa tối thiểu ở mức 3NF.
 
-![Sơ đồ ERD]([Link_ảnh_chụp_sơ_đồ_ERD_của_bạn])
+<img width="601" height="669" alt="image" src="https://github.com/user-attachments/assets/09c1f59f-37a4-49b1-a836-336ff549a72f" />
+
 *Hình 1: Sơ đồ Thực thể Liên kết (ERD) thể hiện rõ thực thể, thuộc tính, khóa chính và khóa ngoại.*
 
 ### Nhiệm vụ 2: Cài đặt SQL & Xử lý sự kiện
